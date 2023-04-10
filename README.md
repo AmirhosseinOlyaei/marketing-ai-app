@@ -21,4 +21,7 @@ REACT_APP_SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmF
 #### Test user
 - test@msimbo.com
 - user123
-# marketing-ai-app
+
+---
+![Marketing-ai.jpg](..%2F..%2F..%2FDocuments%2FEducation%2FULEM%2Fprojects-screenshot%2FMarketing-ai.jpg)
+![Marketing-ai-projects.jpg](..%2F..%2F..%2FDocuments%2FEducation%2FULEM%2Fprojects-screenshot%2FMarketing-ai-projects.jpg)
