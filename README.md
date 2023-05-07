@@ -24,5 +24,5 @@ REACT_APP_SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmF
 
 ---
 
-https://i.imgur.com/MJgtF0Q.jpg
-https://i.imgur.com/Y5xE9U3.jpg
+![](https://i.imgur.com/MJgtF0Q.jpg)
+![](https://i.imgur.com/Y5xE9U3.jpg)
