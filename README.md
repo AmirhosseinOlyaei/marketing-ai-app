@@ -23,5 +23,6 @@ REACT_APP_SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmF
 - user123
 
 ---
-![Marketing-ai.jpg](..%2F..%2F..%2FDocuments%2FEducation%2FULEM%2Fprojects-screenshot%2FMarketing-ai.jpg)
-![Marketing-ai-projects.jpg](..%2F..%2F..%2FDocuments%2FEducation%2FULEM%2Fprojects-screenshot%2FMarketing-ai-projects.jpg)
+
+https://i.imgur.com/MJgtF0Q.jpg
+https://i.imgur.com/Y5xE9U3.jpg
