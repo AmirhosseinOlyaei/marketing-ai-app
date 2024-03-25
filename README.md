@@ -24,7 +24,7 @@ REACT_APP_SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmF
 
 ---
 Presentation:
-https://hackmd.io/@amiro/marketing-ai
+https://hackmd.io/@devteam/marketing-ai
 
 ![](https://i.imgur.com/MJgtF0Q.jpg)
 
